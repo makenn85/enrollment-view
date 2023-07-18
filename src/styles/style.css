@@ -1,0 +1,11 @@
+.sportsIneligible {
+  background-color: goldenrod; font-family: "Papyrus";
+}
+.academicWarning { background-color: indianred; font-family: "Times New Roman";
+}
+
+html {
+  text-align: center; }
+
+.container {
+  width: 900px; }
