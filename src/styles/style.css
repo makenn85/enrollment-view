@@ -9,3 +9,16 @@ html {
 
 .container {
   width: 900px; }
+
+thead { 
+  font-size: 150% ;
+ }
+
+.col-sm {
+display:inline-block;
+}
+
+dl .row {
+  display: flex;
+  justify-content: space-around;
+}
